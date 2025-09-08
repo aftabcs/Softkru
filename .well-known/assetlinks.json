@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.cbt.ajmantest",
+            "sha256_cert_fingerprints": [
+                "37:23:C6:1E:B5:59:60:8C:89:8E:92:B0:FD:B2:52:33:92:35:4A:71:DB:1D:0B:18:87:3A:E3:94:E5:43:77:00"
+            ]
+        }
+    }
+]
